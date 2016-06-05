@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <resources>
+
+        <color name="black">#000000</color>
+        <color name="White">#ffffff</color>
+        <color name="primaryColor">#fcbf0f</color>
+        <color name="yellow">#ffcc00</color>
+        <color name="red">#FF0000</color>
+        <color name="blue">#0000FF</color>
+        <color name="button_bottom">#e93a68</color>
+        <color name="button_color">#EA3A69</color>
+        <color name="gray">#a4a4a4</color>
+
+        <color name="light_gray">#e6e6e6</color>
+        <color name="more_light_gray">#f8f8f8</color>
+        <color name="gray_color">#666768</color>
+        <color name="dark_gray">#555555</color>
+        <color name="nav_tab_pink">#E93A68</color>
+        <color name="sign_upcolor">#EBAF00</color>
+        <color name="backlightgray">#F6F6F6</color>
+        <color name="dialog_bg">#313131</color>
+        <color name="brand_nm">#1E90FF</color>
+        <color name="silver">#969595</color>
+
+
+</resources>

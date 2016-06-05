@@ -1,0 +1,11 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">20dp</dimen>
+    <dimen name="nav_drawer_width">260dp</dimen>
+    <dimen name="activity_product_list_txt_font">12dp</dimen>
+    <dimen name="edittext_font">12dp</dimen>
+
+    <dimen name="edittext_height">40dp</dimen>
+    <dimen name="edittext_textsize">15dp</dimen>
+</resources>

@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">Combo</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="login_screen_Need_help_txt">Need Help?</string>
+    <string name="login_screen_login_with_txt">You can also login with</string>
+    <string name="All_mendatory_txt">All fields are mendatory</string>
+    <string name="wtc_txt">  TRACKING &amp; CHECKING</string>
+    <string name="login_screen_donthaveaccount_txt">Don\'t have an account yet?</string>
+    <string name="login_screen_sign_up_txt">Sign Up</string>
+    <string name="login_screen_sign_in_txt">LOGIN</string>
+    <string name="login_screen_warranty_tracker_checker_txt">  TRACKING &amp; CHECKING</string>
+
+    <string name="signup_screen_sign_up_txt">SIGN UP</string>
+    <string name="signup_screen_username_hint">Name</string>
+    <string name="signup_screen_emailid_hint">Email ID</string>
+    <string name="signup_screen_mobile_hint">Mobile Number</string>
+    <string name="signup_screen_password_hint">Password</string>
+    <string name="signup_screen_conf_password_hint">Confirm Password</string>
+    <string name="signup_screen_submit_bt">SUBMIT</string>
+
+    <string name="facebook_app_id">1122964471074413</string>
+    <string name="please_wait_facebooklogin">Please wait</string>
+    <string name="login_canceled_facebooklogin">Login canceled</string>
+    <string name="login_failed_facebooklogin">Login failed</string>
+    <string name="btn_scan_now">Scan Now</string>
+    <string name="scan_bar_code">Scan a Bar Code</string>
+    <string name="addwarranty_screen_warnty_txt">WARRANTY TRACKER &amp; CHECKER</string>
+    <string name="addwarranty_screen_warnty_tap_to_add_txt">Tap to add warranty to know what is in store for you!</string>
+    <string name="addwarranty_screen_warnty_addwarranty_txt">Add Warranty</string>
+    <string name="warrantyadd_screen_header_txt">Add Warranty</string>
+    <string name="warrantyadd_screen_header_save_txt">Save</string>
+    <string name="warrantyadd_screen_product_deatils_txt">PRODUCT DETAIL</string>
+    <string name="warrantyadd_screen_brand_txt">Brand</string>
+    <string name="warrantyadd_screen_product_product_category_txt">Category</string>
+    <string name="warrantyadd_screen_product_brand_product_txt">Product Type</string>
+
+    <string name="warrantyadd_screen_model_no_txt">Model Number</string>
+    <string name="warrantyadd_screen_serial_no_txt">Serial Number</string>
+
+    <string name="warrantyadd_screen_country_purchese_txt">Country Purchase</string>
+    <string name="warrantyadd_screen_date_of_purchase_txt">Date Purchase</string>
+
+    <string name="warrantyadd_screen_end_warranty_txt">End Warranty Date</string>
+    <string name="warrantyadd_screen_date_of_inst_txt">Date of Installation</string>
+    <string name="warrantyadd_screen_global_warranty_txt">\u0020Global Warranty</string>
+    <string name="warrantyadd_screen_extended_warranty_txt">\u0020Extended Warranty</string>
+    <string name="warrantyadd_screen_upload_doc_txt">UPLOAD DOCUMENTS</string>
+    <string name="warrantyadd_screen_dealer_name_txt">Dealer Name</string>
+
+    <string name="warrantyadd_screen_dealer_information_txt">Dealer Information</string>
+    <string name="warrantyadd_screen_invoice_no_txt">Invoice Number</string>
+    <string name="warrantyadd_screen_amount_txt">Amount (Purchase Price)</string>
+    <string name="warrantyadd_screen_upload_invloce_txt">Upload Invoice</string>
+    <string name="warrantyadd_screen_upload_warranty_txt">Upload Warranty</string>
+
+    <string name="warrantyadd_screen_upload_image_txt">Upload Image</string>
+    <string name="warrantyadd_screen_count_txt">0</string>
+    <string name="warrantyadd_screen_count_warranty_txt">0</string>
+    <string name="warrantyadd_screen_count_image_txt">0</string>
+    <string name="warrantyadd_screen_save_verifying_txt">Saved &amp; Verified Successfully</string>
+    <string name="warrantyadd_screen_ok_txt">Ok</string>
+    <string name="warrantyremove_dialog_screen_reason_txt">Reason for Opting Out</string>
+    <string name="warrantyremove_screen_remove_txt">REMOVE</string>
+    <string name="user_profile_edit_address">ADDRESS</string>
+    <string name="user_profile_edit_address_hint_house"><font size='14'>House No./ Flat No.</font></string>
+    <string name="user_profile_edit_address_hint_street"><font size='14'>Street / Building</font></string>
+    <string name="user_profile_edit_address_hint_city"><font size='14'>City / Area</font></string>
+    <string name="user_profile_edit_address_hint_pincode"><font size='14'>Pincode</font></string>
+    <string name="user_profile_edit_address_hint_country"><font size='14'>Country</font></string>
+    <string name="setting_screen_header_txt">Setting</string>
+    <string name="setting_screen_notify_me_txt">Notify me in advance</string>
+    <string name="setting_screen_alert_txt">\u0020Alert</string>
+    <string name="setting_screen_notify_txt">\u0020Notify Me</string>
+    <string name="setting_screen_days_txt">Days</string>
+    <string name="setting_screen_push_notification_txt">Push Notifications</string>
+    <string name="setting_screen_email_txt">Email</string>
+    <string name="setting_screen_sms_txt">SMS</string>
+    <string name="gallery_screen_gallery_txt">UPLOAD FROM GALLERY</string>
+    <string name="gallery_screen_camera_txt">UPLOAD FROM CAMERA</string>
+    <string name="gallery_screen_doc_txt">UPLOAD DOCUMENT</string>
+
+    <string name="warrantyedit_screen_header_txt">Edit Warranty</string>
+    <string name="forgotpassword_screen_header_txt">FORGOT PASSWORD</string>
+
+    <string name="forgotpassword_screen_cancel_txt"><u>Cancel</u></string>
+    <string name="changepassword_screen_hint_email_txt">Email ID</string>
+    <string name="changepassword_screen_hint_old_pwd_txt">Old Password</string>
+    <string name="changepassword_screen_hint_new_pwd_txt">New Password</string>
+    <string name="changepassword_screen_hint_conf_pwd_txt">Confirm Password</string>
+    <string name="changepassword_screen_submit_bt_txt">SUBMIT</string>
+    <string name="changepassword_in_toolbar">Change Password</string>
+    <string name="view_warranty_greather_than_sign">&gt;&gt;</string>
+    <string name="view_warranty_view_invoice">View Invoice</string>
+    <string name="view_warranty_view_warranty">View Warranty</string>
+    <string name="view_warranty_view_images">View Images</string>
+    <string name="view_warranty_renew_wrnty_bt">RENEW WARRANTY?</string>
+    <string name="view_warranty_service_centr_bt">SERVICE CENTER</string>
+    <string name="view_warranty_user_manual_txt">User Manual</string>
+    <string name="view_warranty_installation_kit_txt">Installation Kit</string>
+    <string name="view_warranty_demo_txt">Demo</string>
+
+    <string name="action_search">Search</string>
+    <string name="action_profile_edit">Edit Profile</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="nav_tab_mywarranty">\u0020\u0020 My Warranty</string>
+    <string name="nav_tab_offers">\u0020\u0020 Offers</string>
+    <string name="nav_tab_trends">\u0020\u0020 Trends</string>
+
+    <string name="nav_item_profile">Profile</string>
+    <string name="nav_item_profile_update">Profile Update</string>
+    <string name="user_profile_edit_save">SAVE</string>
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_friends">Brands </string>
+    <string name="nav_item_notifications">Service Center</string>
+    <string name="nav_item_setting">Settings</string>
+    <string name="nav_item_share">Share</string>
+    <string name="nav_item_faqs">FAQs</string>
+    <string name="nav_item_changepass">Change Password</string>
+    <string name="nav_item_rate">Rate This App</string>
+    <string name="nav_item_about">About</string>
+    <string name="nav_item_logout">Logout</string>
+</resources>
